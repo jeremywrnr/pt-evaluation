@@ -10,7 +10,6 @@ tokens = s.split()
 firstName = tokens[0]
 middleName = tokens[1]
 lastName = tokens[2]
-s2 = firstName + ' ' + middleName + ' ' + lastName
 
 # 'if' statement - indentation matters!
 if (s == s2):

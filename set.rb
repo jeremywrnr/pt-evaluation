@@ -6,3 +6,5 @@ my_set = my_array.to_set
 
 my_hash['nested array'] = my_array
 my_array[1] = ['a', 'b', 'c']
+
+puts my_array
