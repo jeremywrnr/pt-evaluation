@@ -9,5 +9,6 @@ function foo() {
   return bar;
 }
 var b = foo();
+
 // x inside of bar should be the x in foo, *not* the global x
 b();

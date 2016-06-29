@@ -47,7 +47,7 @@ orderedUniqueAges = sorted(uniqueAges) # new list
 
 # dict - mapping unique keys to values
 netWorth = {}
-netWorth['Donald Trump'] = 3000000000
+netWorth['Donald Trump'] = -3000000000
 netWorth['Bill Gates'] = 58000000000
 netWorth['Tom Cruise'] = 40000000
 netWorth['Joe Postdoc'] = 20000
