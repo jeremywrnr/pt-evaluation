@@ -12,7 +12,7 @@ middleName = tokens[1]
 lastName = tokens[2]
 
 # 'if' statement - indentation matters!
-if (s == s2):
+if (s == s):
     print('yes!!!')
 else:
     print('nooooooo')
