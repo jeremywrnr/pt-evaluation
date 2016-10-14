@@ -5,6 +5,8 @@
 
 using namespace std;
 
+// editing code here!
+
 class Computer // Standard way of defining the class
 {
 public:
